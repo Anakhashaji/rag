@@ -1,0 +1,9 @@
+chromadb
+    email-validator
+    flask
+    flask-sqlalchemy
+    gunicorn
+    numpy
+    psycopg2-binary
+    pyrebase4
+    requests
